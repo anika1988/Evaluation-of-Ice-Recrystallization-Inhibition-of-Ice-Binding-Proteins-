@@ -1,0 +1,1 @@
+The book chapter describes a method to quantify ice recrystalization inhibition activities of antifreeze proteins. The method uses diameters of 13-15 growing ice recrystals to measure the ice recrystallization rates.
